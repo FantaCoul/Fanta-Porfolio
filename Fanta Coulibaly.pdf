@@ -44001,12 +44001,27 @@ endobj
 
 962 0 obj
   << /Annots [ << /A << /S /URI
+                        /URI (https\072\057\057\050\053223\051\04090949159)
+                        /Type /Action
+                     >>
+                  /Rect [ 146.000000 674.843750 237.454102 688.156250 ]
+                  /Subtype /Link
+               >>
+               << /A << /S /URI
                         /URI (mailto\072fantacoulibaly101\100gmail\056com)
                         /Type /Action
                      >>
                   /Rect [ 262.000000 674.843750 415.088867 688.156250 ]
                   /Subtype /Link
-               >> ]
+               >>
+               << /A << /S /URI
+                        /URI (https\072\057\057www\056technovadesign\056com\057)
+                        /Type /Action
+                     >>
+                  /Rect [ 443.000000 674.843750 572.883789 688.156250 ]
+                  /Subtype /Link
+               >>
+             ]
      /Type /Page
      /MediaBox [ 0.000000 0.000000 595.000000 842.000000 ]
      /Resources 959 0 R
@@ -44993,13 +45008,13 @@ xref
 0001446075 00000 n
 0002764913 00000 n
 0002764941 00000 n
-0002765402 00000 n
-0002765480 00000 n
+0002766006 00000 n
+0002766084 00000 n
 trailer
 << /ID [ (some) (id) ]
    /Root 964 0 R
    /Size 965
 >>
 startxref
-2765543
+2766147
 %%EOF
